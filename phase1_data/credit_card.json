@@ -1,0 +1,7002 @@
+[
+  {
+    "customer_id": "CUST00001",
+    "card_no": "4974841250582087",
+    "limit": 200000,
+    "usage": 0.7,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00002",
+    "card_no": "4506311627145877",
+    "limit": 50000,
+    "usage": 0.45,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00003",
+    "card_no": "4095482876802510",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00004",
+    "card_no": "4534416026772862",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00005",
+    "card_no": "4521454563303916",
+    "limit": 50000,
+    "usage": 0.22,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00006",
+    "card_no": "4295805600527355",
+    "limit": 100000,
+    "usage": 0.62,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00007",
+    "card_no": "4236350083454687",
+    "limit": 200000,
+    "usage": 0.63,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00008",
+    "card_no": "4254291858969188",
+    "limit": 100000,
+    "usage": 0.87,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00009",
+    "card_no": "4001222733663697",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00010",
+    "card_no": "4182226652676554",
+    "limit": 50000,
+    "usage": 0.26,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00011",
+    "card_no": "4492269371532959",
+    "limit": 200000,
+    "usage": 0.53,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00012",
+    "card_no": "4197572540424236",
+    "limit": 50000,
+    "usage": 0.22,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00013",
+    "card_no": "4494970286767073",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00014",
+    "card_no": "4232597694528971",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00015",
+    "card_no": "4532121749796828",
+    "limit": 100000,
+    "usage": 0.79,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00016",
+    "card_no": "4093962204308519",
+    "limit": 50000,
+    "usage": 0.36,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00017",
+    "card_no": "4410257322941390",
+    "limit": 100000,
+    "usage": 0.68,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00018",
+    "card_no": "4114152728104466",
+    "limit": 50000,
+    "usage": 0.11,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00019",
+    "card_no": "4001999434457993",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00020",
+    "card_no": "4287718497002916",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00021",
+    "card_no": "4775136926994501",
+    "limit": 50000,
+    "usage": 0.59,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00022",
+    "card_no": "4602481228329825",
+    "limit": 200000,
+    "usage": 0.81,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00023",
+    "card_no": "4486751542975717",
+    "limit": 100000,
+    "usage": 0.64,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00024",
+    "card_no": "4356330049795180",
+    "limit": 100000,
+    "usage": 0.06,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00025",
+    "card_no": "4679998112848922",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00026",
+    "card_no": "4378198019436326",
+    "limit": 200000,
+    "usage": 0.49,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00027",
+    "card_no": "4845123386436204",
+    "limit": 50000,
+    "usage": 0.08,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00028",
+    "card_no": "4615341196277430",
+    "limit": 50000,
+    "usage": 0.7,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00029",
+    "card_no": "4377157062205438",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00030",
+    "card_no": "4248155024817023",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00031",
+    "card_no": "4454467077343007",
+    "limit": 200000,
+    "usage": 0.94,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00032",
+    "card_no": "4895618857803752",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00033",
+    "card_no": "4475357576047544",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00034",
+    "card_no": "4348978264388252",
+    "limit": 200000,
+    "usage": 0.52,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00035",
+    "card_no": "4517272661655646",
+    "limit": 200000,
+    "usage": 0.75,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00036",
+    "card_no": "4282656768167631",
+    "limit": 100000,
+    "usage": 0.89,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00037",
+    "card_no": "4513051286953728",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00038",
+    "card_no": "4650077752498516",
+    "limit": 200000,
+    "usage": 0.09,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00039",
+    "card_no": "4779017561674866",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00040",
+    "card_no": "4422825126506909",
+    "limit": 200000,
+    "usage": 0.9,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00041",
+    "card_no": "4321048504605637",
+    "limit": 50000,
+    "usage": 0.1,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00042",
+    "card_no": "4889071961963254",
+    "limit": 200000,
+    "usage": 0.26,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00043",
+    "card_no": "4520595572188161",
+    "limit": 50000,
+    "usage": 0.73,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00044",
+    "card_no": "4038437480809881",
+    "limit": 100000,
+    "usage": 0.8,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00045",
+    "card_no": "4174391821942820",
+    "limit": 200000,
+    "usage": 0.67,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00046",
+    "card_no": "4333669571513283",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00047",
+    "card_no": "4146077817867547",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00048",
+    "card_no": "4411302392929865",
+    "limit": 200000,
+    "usage": 0.93,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00049",
+    "card_no": "4443541263471221",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00050",
+    "card_no": "4601562678182756",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00051",
+    "card_no": "4268355724836759",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00052",
+    "card_no": "4445676138662473",
+    "limit": 200000,
+    "usage": 0.87,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00053",
+    "card_no": "4675817306029485",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00054",
+    "card_no": "4003626680173533",
+    "limit": 100000,
+    "usage": 0.67,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00055",
+    "card_no": "4743714328613477",
+    "limit": 100000,
+    "usage": 0.87,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00056",
+    "card_no": "4265837655273200",
+    "limit": 100000,
+    "usage": 0.27,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00057",
+    "card_no": "4848403701135866",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00058",
+    "card_no": "4562353275353454",
+    "limit": 100000,
+    "usage": 0.28,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00059",
+    "card_no": "4879728066270487",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00060",
+    "card_no": "4585596170389651",
+    "limit": 100000,
+    "usage": 0.47,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00061",
+    "card_no": "4829541567935446",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00062",
+    "card_no": "4627982538516088",
+    "limit": 50000,
+    "usage": 0.24,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00063",
+    "card_no": "4268577258026187",
+    "limit": 50000,
+    "usage": 0.63,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00064",
+    "card_no": "4983277197068835",
+    "limit": 50000,
+    "usage": 0.39,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00065",
+    "card_no": "4269808308651803",
+    "limit": 200000,
+    "usage": 0.55,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00066",
+    "card_no": "4524697587939671",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00067",
+    "card_no": "4885015787855659",
+    "limit": 50000,
+    "usage": 0.58,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00068",
+    "card_no": "4214712857557081",
+    "limit": 200000,
+    "usage": 0.22,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00069",
+    "card_no": "4249255329391843",
+    "limit": 50000,
+    "usage": 0.74,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00070",
+    "card_no": "4392579867813956",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00071",
+    "card_no": "4035476426518152",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00072",
+    "card_no": "4619998155672506",
+    "limit": 50000,
+    "usage": 0.53,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00073",
+    "card_no": "4050470854273420",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00074",
+    "card_no": "4012035967070141",
+    "limit": 50000,
+    "usage": 0.82,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00075",
+    "card_no": "4930854239182030",
+    "limit": 50000,
+    "usage": 0.91,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00076",
+    "card_no": "4220789616285854",
+    "limit": 100000,
+    "usage": 0.11,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00077",
+    "card_no": "4725293673212238",
+    "limit": 100000,
+    "usage": 0.24,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00078",
+    "card_no": "4460299894688324",
+    "limit": 200000,
+    "usage": 0.34,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00079",
+    "card_no": "4096210676265218",
+    "limit": 50000,
+    "usage": 0.94,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00080",
+    "card_no": "4485854214018644",
+    "limit": 200000,
+    "usage": 0.61,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00081",
+    "card_no": "4952891178140330",
+    "limit": 200000,
+    "usage": 0.17,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00082",
+    "card_no": "4510236320399041",
+    "limit": 200000,
+    "usage": 0.54,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00083",
+    "card_no": "4305716159578542",
+    "limit": 200000,
+    "usage": 0.88,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00084",
+    "card_no": "4722004153418794",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00085",
+    "card_no": "4203123849637770",
+    "limit": 100000,
+    "usage": 0.78,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00086",
+    "card_no": "4130492423977117",
+    "limit": 50000,
+    "usage": 0.94,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00087",
+    "card_no": "4470410511640601",
+    "limit": 200000,
+    "usage": 0.49,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00088",
+    "card_no": "4111550852715541",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00089",
+    "card_no": "4778595170135080",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00090",
+    "card_no": "4839890606782715",
+    "limit": 50000,
+    "usage": 0.46,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00091",
+    "card_no": "4671958599904615",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00092",
+    "card_no": "4244170119292552",
+    "limit": 100000,
+    "usage": 0.91,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00093",
+    "card_no": "4898316350593644",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00094",
+    "card_no": "4203195755168230",
+    "limit": 100000,
+    "usage": 0.85,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00095",
+    "card_no": "4424385848566706",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00096",
+    "card_no": "4512935280700612",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00097",
+    "card_no": "4405364381127440",
+    "limit": 100000,
+    "usage": 0.94,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00098",
+    "card_no": "4610127379682321",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00099",
+    "card_no": "4114602437101722",
+    "limit": 50000,
+    "usage": 0.95,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00100",
+    "card_no": "4338229885923740",
+    "limit": 100000,
+    "usage": 0.9,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00101",
+    "card_no": "4735593177749108",
+    "limit": 100000,
+    "usage": 0.65,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00102",
+    "card_no": "4181967010171314",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00103",
+    "card_no": "4056500476452854",
+    "limit": 100000,
+    "usage": 0.98,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00104",
+    "card_no": "4543984476402139",
+    "limit": 50000,
+    "usage": 0.62,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00105",
+    "card_no": "4127938052478617",
+    "limit": 100000,
+    "usage": 0.1,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00106",
+    "card_no": "4591425485437974",
+    "limit": 50000,
+    "usage": 0.78,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00107",
+    "card_no": "4067872731068263",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00108",
+    "card_no": "4841708885157529",
+    "limit": 100000,
+    "usage": 0.78,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00109",
+    "card_no": "4528941178550720",
+    "limit": 200000,
+    "usage": 0.93,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00110",
+    "card_no": "4743418190275353",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00111",
+    "card_no": "4228860727648149",
+    "limit": 50000,
+    "usage": 0.61,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00112",
+    "card_no": "4030502700713487",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00113",
+    "card_no": "4786423694195484",
+    "limit": 100000,
+    "usage": 0.14,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00114",
+    "card_no": "4387290214348205",
+    "limit": 50000,
+    "usage": 0.25,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00115",
+    "card_no": "4157198251401678",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00116",
+    "card_no": "4701920501455606",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00117",
+    "card_no": "4578801966899899",
+    "limit": 200000,
+    "usage": 0.26,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00118",
+    "card_no": "4654154491369499",
+    "limit": 100000,
+    "usage": 0.61,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00119",
+    "card_no": "4642762717637492",
+    "limit": 50000,
+    "usage": 0.18,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00120",
+    "card_no": "4082139466208714",
+    "limit": 100000,
+    "usage": 0.69,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00121",
+    "card_no": "4511444985989809",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00122",
+    "card_no": "4744734352968119",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00123",
+    "card_no": "4906229683784830",
+    "limit": 100000,
+    "usage": 0.89,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00124",
+    "card_no": "4709501224905560",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00125",
+    "card_no": "4660212793549246",
+    "limit": 50000,
+    "usage": 0.24,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00126",
+    "card_no": "4888772413791038",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00127",
+    "card_no": "4255839290293773",
+    "limit": 200000,
+    "usage": 0.22,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00128",
+    "card_no": "4651626171503915",
+    "limit": 100000,
+    "usage": 0.93,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00129",
+    "card_no": "4914098211412305",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00130",
+    "card_no": "4373548866614622",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00131",
+    "card_no": "4508711455233741",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00132",
+    "card_no": "4913169335678906",
+    "limit": 100000,
+    "usage": 0.52,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00133",
+    "card_no": "4931555459716608",
+    "limit": 50000,
+    "usage": 0.09,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00134",
+    "card_no": "4303238970132033",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00135",
+    "card_no": "4343119184762911",
+    "limit": 50000,
+    "usage": 0.9,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00136",
+    "card_no": "4437345678219210",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00137",
+    "card_no": "4673658244942429",
+    "limit": 100000,
+    "usage": 0.96,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00138",
+    "card_no": "4602499247596875",
+    "limit": 50000,
+    "usage": 0.39,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00139",
+    "card_no": "4963525363179733",
+    "limit": 100000,
+    "usage": 0.74,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00140",
+    "card_no": "4761206417327051",
+    "limit": 200000,
+    "usage": 0.4,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00141",
+    "card_no": "4724701096089911",
+    "limit": 100000,
+    "usage": 0.26,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00142",
+    "card_no": "4560881834182799",
+    "limit": 200000,
+    "usage": 0.21,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00143",
+    "card_no": "4325681122943622",
+    "limit": 50000,
+    "usage": 0.72,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00144",
+    "card_no": "4890794784486070",
+    "limit": 100000,
+    "usage": 0.68,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00145",
+    "card_no": "4725393146339402",
+    "limit": 200000,
+    "usage": 0.4,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00146",
+    "card_no": "4512830372889474",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00147",
+    "card_no": "4433665177167206",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00148",
+    "card_no": "4491448821590211",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00149",
+    "card_no": "4833990218891883",
+    "limit": 200000,
+    "usage": 0.09,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00150",
+    "card_no": "4382918976499967",
+    "limit": 200000,
+    "usage": 0.49,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00151",
+    "card_no": "4902646857379512",
+    "limit": 200000,
+    "usage": 0.61,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00152",
+    "card_no": "4319385909805982",
+    "limit": 50000,
+    "usage": 0.33,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00153",
+    "card_no": "4518556556604737",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00154",
+    "card_no": "4878342683551397",
+    "limit": 50000,
+    "usage": 0.46,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00155",
+    "card_no": "4906952068729341",
+    "limit": 100000,
+    "usage": 0.22,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00156",
+    "card_no": "4162486923998518",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00157",
+    "card_no": "4089248344514482",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00158",
+    "card_no": "4523808230671497",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00159",
+    "card_no": "4896999197621570",
+    "limit": 200000,
+    "usage": 0.34,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00160",
+    "card_no": "4763486619110685",
+    "limit": 100000,
+    "usage": 0.39,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00161",
+    "card_no": "4832327519826381",
+    "limit": 200000,
+    "usage": 0.12,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00162",
+    "card_no": "4775488477202498",
+    "limit": 100000,
+    "usage": 0.77,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00163",
+    "card_no": "4826515487607901",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00164",
+    "card_no": "4976332661357129",
+    "limit": 200000,
+    "usage": 0.74,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00165",
+    "card_no": "4120380614169690",
+    "limit": 50000,
+    "usage": 0.75,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00166",
+    "card_no": "4132561398426211",
+    "limit": 100000,
+    "usage": 0.47,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00167",
+    "card_no": "4761335430878303",
+    "limit": 50000,
+    "usage": 0.72,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00168",
+    "card_no": "4982529131140042",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00169",
+    "card_no": "4454963039879236",
+    "limit": 100000,
+    "usage": 0.83,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00170",
+    "card_no": "4467014566399638",
+    "limit": 100000,
+    "usage": 0.53,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00171",
+    "card_no": "4104079487579500",
+    "limit": 100000,
+    "usage": 0.17,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00172",
+    "card_no": "4546336640295580",
+    "limit": 200000,
+    "usage": 0.88,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00173",
+    "card_no": "4737146432932235",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00174",
+    "card_no": "4229956966394855",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00175",
+    "card_no": "4991654833577184",
+    "limit": 100000,
+    "usage": 0.91,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00176",
+    "card_no": "4782341298213532",
+    "limit": 100000,
+    "usage": 0.97,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00177",
+    "card_no": "4346212449089349",
+    "limit": 100000,
+    "usage": 0.41,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00178",
+    "card_no": "4025866329588692",
+    "limit": 200000,
+    "usage": 0.37,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00179",
+    "card_no": "4140444930031649",
+    "limit": 100000,
+    "usage": 0.44,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00180",
+    "card_no": "4939726797835314",
+    "limit": 100000,
+    "usage": 0.8,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00181",
+    "card_no": "4065939249391224",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00182",
+    "card_no": "4954625605276849",
+    "limit": 100000,
+    "usage": 0.32,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00183",
+    "card_no": "4962160333005613",
+    "limit": 100000,
+    "usage": 0.21,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00184",
+    "card_no": "4281283826986988",
+    "limit": 50000,
+    "usage": 0.96,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00185",
+    "card_no": "4394067012491495",
+    "limit": 50000,
+    "usage": 0.86,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00186",
+    "card_no": "4897645254162448",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00187",
+    "card_no": "4780945081037825",
+    "limit": 200000,
+    "usage": 0.72,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00188",
+    "card_no": "4677837306881045",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00189",
+    "card_no": "4247977718955502",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00190",
+    "card_no": "4271487646719974",
+    "limit": 100000,
+    "usage": 0.37,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00191",
+    "card_no": "4622381440651647",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00192",
+    "card_no": "4637399542051980",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00193",
+    "card_no": "4907494899450662",
+    "limit": 100000,
+    "usage": 0.33,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00194",
+    "card_no": "4174467198086099",
+    "limit": 100000,
+    "usage": 0.12,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00195",
+    "card_no": "4014146253361926",
+    "limit": 50000,
+    "usage": 0.48,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00196",
+    "card_no": "4597113075682312",
+    "limit": 200000,
+    "usage": 0.15,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00197",
+    "card_no": "4914211960303928",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00198",
+    "card_no": "4222768597440507",
+    "limit": 200000,
+    "usage": 0.21,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00199",
+    "card_no": "4924588361826062",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00200",
+    "card_no": "4551652168394755",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00201",
+    "card_no": "4384065438797206",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00202",
+    "card_no": "4326379362362517",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00203",
+    "card_no": "4707544460943933",
+    "limit": 100000,
+    "usage": 0.43,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00204",
+    "card_no": "4458456122574819",
+    "limit": 200000,
+    "usage": 0.47,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00205",
+    "card_no": "4588486184777930",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00206",
+    "card_no": "4162975841717104",
+    "limit": 200000,
+    "usage": 0.37,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00207",
+    "card_no": "4988912841523184",
+    "limit": 200000,
+    "usage": 0.34,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00208",
+    "card_no": "4454059997725945",
+    "limit": 50000,
+    "usage": 0.33,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00209",
+    "card_no": "4861786988485174",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00210",
+    "card_no": "4288268800857501",
+    "limit": 50000,
+    "usage": 0.28,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00211",
+    "card_no": "4845496926241369",
+    "limit": 50000,
+    "usage": 0.23,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00212",
+    "card_no": "4920422085097585",
+    "limit": 200000,
+    "usage": 0.76,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00213",
+    "card_no": "4562025486199296",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00214",
+    "card_no": "4125876855564530",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00215",
+    "card_no": "4549002251313767",
+    "limit": 50000,
+    "usage": 0.12,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00216",
+    "card_no": "4204197471973681",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00217",
+    "card_no": "4211975471727505",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00218",
+    "card_no": "4821451893291178",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00219",
+    "card_no": "4852780581630376",
+    "limit": 200000,
+    "usage": 0.43,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00220",
+    "card_no": "4876930851779509",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00221",
+    "card_no": "4860052936633355",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00222",
+    "card_no": "4352386569564751",
+    "limit": 50000,
+    "usage": 0.17,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00223",
+    "card_no": "4960236053793944",
+    "limit": 50000,
+    "usage": 0.21,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00224",
+    "card_no": "4968521117903888",
+    "limit": 100000,
+    "usage": 0.91,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00225",
+    "card_no": "4085718351041900",
+    "limit": 200000,
+    "usage": 0.74,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00226",
+    "card_no": "4394433964048631",
+    "limit": 100000,
+    "usage": 0.35,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00227",
+    "card_no": "4886454622546367",
+    "limit": 200000,
+    "usage": 0.43,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00228",
+    "card_no": "4028790523387459",
+    "limit": 50000,
+    "usage": 0.48,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00229",
+    "card_no": "4973507944837947",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00230",
+    "card_no": "4676987163766154",
+    "limit": 200000,
+    "usage": 0.77,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00231",
+    "card_no": "4190543030919896",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00232",
+    "card_no": "4273062110492301",
+    "limit": 50000,
+    "usage": 0.05,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00233",
+    "card_no": "4342766551833082",
+    "limit": 100000,
+    "usage": 0.06,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00234",
+    "card_no": "4809750693830612",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00235",
+    "card_no": "4870678123258806",
+    "limit": 200000,
+    "usage": 0.15,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00236",
+    "card_no": "4483599802736343",
+    "limit": 100000,
+    "usage": 0.52,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00237",
+    "card_no": "4409942700040389",
+    "limit": 50000,
+    "usage": 0.39,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00238",
+    "card_no": "4422507634689447",
+    "limit": 200000,
+    "usage": 0.76,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00239",
+    "card_no": "4794427100350750",
+    "limit": 50000,
+    "usage": 0.17,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00240",
+    "card_no": "4263813972722724",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00241",
+    "card_no": "4333776094104081",
+    "limit": 200000,
+    "usage": 0.28,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00242",
+    "card_no": "4614164611910842",
+    "limit": 200000,
+    "usage": 0.51,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00243",
+    "card_no": "4889462482482221",
+    "limit": 200000,
+    "usage": 0.12,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00244",
+    "card_no": "4271076221769599",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00245",
+    "card_no": "4877336586767278",
+    "limit": 200000,
+    "usage": 0.87,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00246",
+    "card_no": "4923957971823563",
+    "limit": 200000,
+    "usage": 0.37,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00247",
+    "card_no": "4763794243543856",
+    "limit": 100000,
+    "usage": 0.36,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00248",
+    "card_no": "4840630332843113",
+    "limit": 100000,
+    "usage": 0.39,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00249",
+    "card_no": "4557639550470350",
+    "limit": 200000,
+    "usage": 0.59,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00250",
+    "card_no": "4408076716613566",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00251",
+    "card_no": "4340093915442470",
+    "limit": 200000,
+    "usage": 0.4,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00252",
+    "card_no": "4637839316062734",
+    "limit": 200000,
+    "usage": 0.62,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00253",
+    "card_no": "4445081271736406",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00254",
+    "card_no": "4886774999411870",
+    "limit": 100000,
+    "usage": 0.65,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00255",
+    "card_no": "4669588122000923",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00256",
+    "card_no": "4399840333861468",
+    "limit": 100000,
+    "usage": 0.25,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00257",
+    "card_no": "4986212019967530",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00258",
+    "card_no": "4798418978148847",
+    "limit": 50000,
+    "usage": 0.23,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00259",
+    "card_no": "4545171670046587",
+    "limit": 100000,
+    "usage": 0.15,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00260",
+    "card_no": "4795180191794131",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00261",
+    "card_no": "4364082923862519",
+    "limit": 200000,
+    "usage": 0.92,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00262",
+    "card_no": "4479508610741694",
+    "limit": 200000,
+    "usage": 0.59,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00263",
+    "card_no": "4182154372239235",
+    "limit": 200000,
+    "usage": 0.84,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00264",
+    "card_no": "4081672611783908",
+    "limit": 100000,
+    "usage": 0.27,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00265",
+    "card_no": "4592784938969674",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00266",
+    "card_no": "4163409502015013",
+    "limit": 50000,
+    "usage": 0.77,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00267",
+    "card_no": "4069174953353526",
+    "limit": 100000,
+    "usage": 0.17,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00268",
+    "card_no": "4535905648384112",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00269",
+    "card_no": "4462005045825431",
+    "limit": 200000,
+    "usage": 0.57,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00270",
+    "card_no": "4153024528583586",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00271",
+    "card_no": "4856294812538328",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00272",
+    "card_no": "4460886500697646",
+    "limit": 50000,
+    "usage": 0.6,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00273",
+    "card_no": "4664969886599120",
+    "limit": 100000,
+    "usage": 0.98,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00274",
+    "card_no": "4227099590857025",
+    "limit": 200000,
+    "usage": 0.23,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00275",
+    "card_no": "4191291018283683",
+    "limit": 50000,
+    "usage": 0.41,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00276",
+    "card_no": "4488131064740888",
+    "limit": 50000,
+    "usage": 0.7,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00277",
+    "card_no": "4097062359329957",
+    "limit": 50000,
+    "usage": 0.53,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00278",
+    "card_no": "4079858528947373",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00279",
+    "card_no": "4082755889252755",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00280",
+    "card_no": "4323355325350320",
+    "limit": 50000,
+    "usage": 0.88,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00281",
+    "card_no": "4765911502055414",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00282",
+    "card_no": "4125344742937374",
+    "limit": 200000,
+    "usage": 0.22,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00283",
+    "card_no": "4783563052566605",
+    "limit": 50000,
+    "usage": 0.24,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00284",
+    "card_no": "4275261638167231",
+    "limit": 100000,
+    "usage": 0.81,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00285",
+    "card_no": "4873727414558906",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00286",
+    "card_no": "4966849908823849",
+    "limit": 200000,
+    "usage": 0.37,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00287",
+    "card_no": "4458736795857090",
+    "limit": 50000,
+    "usage": 0.38,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00288",
+    "card_no": "4495479762228683",
+    "limit": 100000,
+    "usage": 0.1,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00289",
+    "card_no": "4874573123893104",
+    "limit": 100000,
+    "usage": 0.38,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00290",
+    "card_no": "4387508986985292",
+    "limit": 100000,
+    "usage": 0.28,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00291",
+    "card_no": "4494390024880009",
+    "limit": 50000,
+    "usage": 0.25,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00292",
+    "card_no": "4996696777446828",
+    "limit": 200000,
+    "usage": 0.13,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00293",
+    "card_no": "4599739538652173",
+    "limit": 50000,
+    "usage": 0.84,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00294",
+    "card_no": "4862905356124662",
+    "limit": 200000,
+    "usage": 0.47,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00295",
+    "card_no": "4067898153592154",
+    "limit": 200000,
+    "usage": 0.56,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00296",
+    "card_no": "4410929072053179",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00297",
+    "card_no": "4878407300967917",
+    "limit": 200000,
+    "usage": 0.51,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00298",
+    "card_no": "4614148292177832",
+    "limit": 50000,
+    "usage": 0.53,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00299",
+    "card_no": "4171566298523315",
+    "limit": 200000,
+    "usage": 0.16,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00300",
+    "card_no": "4415966502774238",
+    "limit": 50000,
+    "usage": 0.18,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00301",
+    "card_no": "4578847020460010",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00302",
+    "card_no": "4227834225126174",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00303",
+    "card_no": "4030152743961280",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00304",
+    "card_no": "4372289835201339",
+    "limit": 50000,
+    "usage": 0.07,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00305",
+    "card_no": "4848880864277998",
+    "limit": 50000,
+    "usage": 0.92,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00306",
+    "card_no": "4080645213051883",
+    "limit": 200000,
+    "usage": 0.7,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00307",
+    "card_no": "4985165666000354",
+    "limit": 50000,
+    "usage": 0.31,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00308",
+    "card_no": "4400951758517961",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00309",
+    "card_no": "4282909181216904",
+    "limit": 200000,
+    "usage": 0.5,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00310",
+    "card_no": "4145260760187616",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00311",
+    "card_no": "4528198909176152",
+    "limit": 100000,
+    "usage": 0.9,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00312",
+    "card_no": "4692148506702082",
+    "limit": 100000,
+    "usage": 0.21,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00313",
+    "card_no": "4320456835868190",
+    "limit": 100000,
+    "usage": 0.9,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00314",
+    "card_no": "4724820986673084",
+    "limit": 100000,
+    "usage": 0.36,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00315",
+    "card_no": "4360538126891467",
+    "limit": 100000,
+    "usage": 0.69,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00316",
+    "card_no": "4000891701630619",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00317",
+    "card_no": "4919280800464171",
+    "limit": 50000,
+    "usage": 0.13,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00318",
+    "card_no": "4553987364800818",
+    "limit": 50000,
+    "usage": 0.92,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00319",
+    "card_no": "4184714502755182",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00320",
+    "card_no": "4954964522342097",
+    "limit": 50000,
+    "usage": 0.47,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00321",
+    "card_no": "4394599065069599",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00322",
+    "card_no": "4836716720268811",
+    "limit": 200000,
+    "usage": 0.52,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00323",
+    "card_no": "4105838222066058",
+    "limit": 100000,
+    "usage": 0.69,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00324",
+    "card_no": "4886456447281363",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00325",
+    "card_no": "4811182179457883",
+    "limit": 200000,
+    "usage": 0.93,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00326",
+    "card_no": "4949911346430041",
+    "limit": 50000,
+    "usage": 0.84,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00327",
+    "card_no": "4888169147747711",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00328",
+    "card_no": "4373969785011784",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00329",
+    "card_no": "4813532194961579",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00330",
+    "card_no": "4592512404237793",
+    "limit": 100000,
+    "usage": 0.37,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00331",
+    "card_no": "4296713155024619",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00332",
+    "card_no": "4996547488720843",
+    "limit": 100000,
+    "usage": 0.26,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00333",
+    "card_no": "4315294089528184",
+    "limit": 200000,
+    "usage": 0.49,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00334",
+    "card_no": "4062736708492697",
+    "limit": 200000,
+    "usage": 0.24,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00335",
+    "card_no": "4788827630448926",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00336",
+    "card_no": "4033160190485129",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00337",
+    "card_no": "4141180979584346",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00338",
+    "card_no": "4264179851688213",
+    "limit": 200000,
+    "usage": 0.65,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00339",
+    "card_no": "4892479860349735",
+    "limit": 50000,
+    "usage": 0.27,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00340",
+    "card_no": "4749912161032384",
+    "limit": 200000,
+    "usage": 0.89,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00341",
+    "card_no": "4671823084842239",
+    "limit": 100000,
+    "usage": 0.08,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00342",
+    "card_no": "4503212753790048",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00343",
+    "card_no": "4273982361911062",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00344",
+    "card_no": "4602848624277697",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00345",
+    "card_no": "4065907003147087",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00346",
+    "card_no": "4245301071393689",
+    "limit": 50000,
+    "usage": 0.06,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00347",
+    "card_no": "4309667653171801",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00348",
+    "card_no": "4260930804559430",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00349",
+    "card_no": "4902732200376569",
+    "limit": 50000,
+    "usage": 0.76,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00350",
+    "card_no": "4857703903091956",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00351",
+    "card_no": "4838703065751174",
+    "limit": 50000,
+    "usage": 0.98,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00352",
+    "card_no": "4548306515923751",
+    "limit": 100000,
+    "usage": 0.32,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00353",
+    "card_no": "4271899578865379",
+    "limit": 100000,
+    "usage": 0.83,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00354",
+    "card_no": "4697516536483456",
+    "limit": 200000,
+    "usage": 0.83,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00355",
+    "card_no": "4210239364236769",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00356",
+    "card_no": "4356770064247818",
+    "limit": 200000,
+    "usage": 0.93,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00357",
+    "card_no": "4963731546086826",
+    "limit": 100000,
+    "usage": 0.44,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00358",
+    "card_no": "4145234759434186",
+    "limit": 50000,
+    "usage": 0.35,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00359",
+    "card_no": "4240640416601059",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00360",
+    "card_no": "4156183075812938",
+    "limit": 100000,
+    "usage": 0.47,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00361",
+    "card_no": "4504509108421363",
+    "limit": 200000,
+    "usage": 0.89,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00362",
+    "card_no": "4881819859219666",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00363",
+    "card_no": "4082957893598549",
+    "limit": 100000,
+    "usage": 0.58,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00364",
+    "card_no": "4687608228947502",
+    "limit": 100000,
+    "usage": 0.28,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00365",
+    "card_no": "4937451875140721",
+    "limit": 50000,
+    "usage": 0.97,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00366",
+    "card_no": "4930684404391033",
+    "limit": 200000,
+    "usage": 0.73,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00367",
+    "card_no": "4488886574240964",
+    "limit": 50000,
+    "usage": 0.37,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00368",
+    "card_no": "4263434882205547",
+    "limit": 200000,
+    "usage": 0.73,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00369",
+    "card_no": "4226727738755416",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00370",
+    "card_no": "4953201785310213",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00371",
+    "card_no": "4952687282756084",
+    "limit": 200000,
+    "usage": 0.88,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00372",
+    "card_no": "4030159794915068",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00373",
+    "card_no": "4732325710786918",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00374",
+    "card_no": "4358604708414395",
+    "limit": 200000,
+    "usage": 0.86,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00375",
+    "card_no": "4959493992742999",
+    "limit": 200000,
+    "usage": 0.48,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00376",
+    "card_no": "4115953315551749",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00377",
+    "card_no": "4463416370370200",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00378",
+    "card_no": "4841136506237259",
+    "limit": 100000,
+    "usage": 0.41,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00379",
+    "card_no": "4437424511658137",
+    "limit": 100000,
+    "usage": 0.7,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00380",
+    "card_no": "4506336441275054",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00381",
+    "card_no": "4456414577594370",
+    "limit": 100000,
+    "usage": 0.12,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00382",
+    "card_no": "4367686500450127",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00383",
+    "card_no": "4786145213446670",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00384",
+    "card_no": "4483656720243482",
+    "limit": 50000,
+    "usage": 0.36,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00385",
+    "card_no": "4263458528133237",
+    "limit": 200000,
+    "usage": 0.24,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00386",
+    "card_no": "4987255718202656",
+    "limit": 100000,
+    "usage": 0.45,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00387",
+    "card_no": "4148828726259635",
+    "limit": 50000,
+    "usage": 0.13,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00388",
+    "card_no": "4746666876883813",
+    "limit": 50000,
+    "usage": 0.45,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00389",
+    "card_no": "4638214379137325",
+    "limit": 50000,
+    "usage": 0.26,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00390",
+    "card_no": "4546226896757223",
+    "limit": 100000,
+    "usage": 0.6,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00391",
+    "card_no": "4763123144693224",
+    "limit": 200000,
+    "usage": 0.05,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00392",
+    "card_no": "4767406647944907",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00393",
+    "card_no": "4542793798969323",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00394",
+    "card_no": "4588463085784061",
+    "limit": 200000,
+    "usage": 0.73,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00395",
+    "card_no": "4566271917127616",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00396",
+    "card_no": "4812320876397536",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00397",
+    "card_no": "4533881880541025",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00398",
+    "card_no": "4207739856129065",
+    "limit": 100000,
+    "usage": 0.23,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00399",
+    "card_no": "4820465505193982",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00400",
+    "card_no": "4927425602803199",
+    "limit": 50000,
+    "usage": 0.62,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00401",
+    "card_no": "4084843150057604",
+    "limit": 100000,
+    "usage": 0.85,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00402",
+    "card_no": "4744538049004988",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00403",
+    "card_no": "4863905995485623",
+    "limit": 100000,
+    "usage": 0.49,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00404",
+    "card_no": "4079545293078423",
+    "limit": 200000,
+    "usage": 0.88,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00405",
+    "card_no": "4760065989522611",
+    "limit": 50000,
+    "usage": 0.8,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00406",
+    "card_no": "4733180854778677",
+    "limit": 200000,
+    "usage": 0.17,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00407",
+    "card_no": "4271831160845539",
+    "limit": 200000,
+    "usage": 0.16,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00408",
+    "card_no": "4150694058564773",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00409",
+    "card_no": "4490858684478566",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00410",
+    "card_no": "4088471594235569",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00411",
+    "card_no": "4012899893409368",
+    "limit": 200000,
+    "usage": 0.59,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00412",
+    "card_no": "4425930147701118",
+    "limit": 50000,
+    "usage": 0.66,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00413",
+    "card_no": "4111487829596101",
+    "limit": 200000,
+    "usage": 0.54,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00414",
+    "card_no": "4315015525731353",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00415",
+    "card_no": "4810640835968599",
+    "limit": 50000,
+    "usage": 0.09,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00416",
+    "card_no": "4919460167054618",
+    "limit": 50000,
+    "usage": 0.47,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00417",
+    "card_no": "4033556578134906",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00418",
+    "card_no": "4833853389363556",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00419",
+    "card_no": "4291756958821732",
+    "limit": 50000,
+    "usage": 0.77,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00420",
+    "card_no": "4468592264658959",
+    "limit": 100000,
+    "usage": 0.38,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00421",
+    "card_no": "4056738291879529",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00422",
+    "card_no": "4394527865360378",
+    "limit": 50000,
+    "usage": 0.65,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00423",
+    "card_no": "4433705641689352",
+    "limit": 200000,
+    "usage": 0.27,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00424",
+    "card_no": "4588627148518697",
+    "limit": 50000,
+    "usage": 0.11,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00425",
+    "card_no": "4611874187835122",
+    "limit": 100000,
+    "usage": 0.89,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00426",
+    "card_no": "4010370268252457",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00427",
+    "card_no": "4868880863091997",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00428",
+    "card_no": "4744880360572458",
+    "limit": 100000,
+    "usage": 0.97,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00429",
+    "card_no": "4916782683518973",
+    "limit": 50000,
+    "usage": 0.62,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00430",
+    "card_no": "4877730053240873",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00431",
+    "card_no": "4967767096984136",
+    "limit": 50000,
+    "usage": 0.67,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00432",
+    "card_no": "4668905284105079",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00433",
+    "card_no": "4911635833059787",
+    "limit": 100000,
+    "usage": 0.7,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00434",
+    "card_no": "4883742518112958",
+    "limit": 50000,
+    "usage": 0.34,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00435",
+    "card_no": "4746595561484596",
+    "limit": 50000,
+    "usage": 0.06,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00436",
+    "card_no": "4726529620687912",
+    "limit": 200000,
+    "usage": 0.85,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00437",
+    "card_no": "4585059601460735",
+    "limit": 200000,
+    "usage": 0.26,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00438",
+    "card_no": "4832580376414833",
+    "limit": 200000,
+    "usage": 0.63,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00439",
+    "card_no": "4201863573116416",
+    "limit": 200000,
+    "usage": 0.32,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00440",
+    "card_no": "4770192136003983",
+    "limit": 100000,
+    "usage": 0.86,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00441",
+    "card_no": "4336076268431672",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00442",
+    "card_no": "4981612896483401",
+    "limit": 50000,
+    "usage": 0.2,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00443",
+    "card_no": "4621545885010065",
+    "limit": 100000,
+    "usage": 0.12,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00444",
+    "card_no": "4662531720372460",
+    "limit": 50000,
+    "usage": 0.88,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00445",
+    "card_no": "4353831498670748",
+    "limit": 100000,
+    "usage": 0.79,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00446",
+    "card_no": "4762062705088600",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00447",
+    "card_no": "4354648612687733",
+    "limit": 100000,
+    "usage": 0.9,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00448",
+    "card_no": "4254408360071264",
+    "limit": 50000,
+    "usage": 0.89,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00449",
+    "card_no": "4925387278737526",
+    "limit": 200000,
+    "usage": 0.54,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00450",
+    "card_no": "4961906410022263",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00451",
+    "card_no": "4268148818009033",
+    "limit": 100000,
+    "usage": 0.35,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00452",
+    "card_no": "4574011209736310",
+    "limit": 50000,
+    "usage": 0.22,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00453",
+    "card_no": "4116232759369159",
+    "limit": 50000,
+    "usage": 0.31,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00454",
+    "card_no": "4099054640658216",
+    "limit": 100000,
+    "usage": 0.89,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00455",
+    "card_no": "4065401984101370",
+    "limit": 50000,
+    "usage": 0.77,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00456",
+    "card_no": "4784228542501135",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00457",
+    "card_no": "4830981254062254",
+    "limit": 200000,
+    "usage": 0.29,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00458",
+    "card_no": "4992301555299710",
+    "limit": 50000,
+    "usage": 0.41,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00459",
+    "card_no": "4444774322178579",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00460",
+    "card_no": "4427131471393909",
+    "limit": 50000,
+    "usage": 0.55,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00461",
+    "card_no": "4656024205110914",
+    "limit": 50000,
+    "usage": 0.83,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00462",
+    "card_no": "4801907662251520",
+    "limit": 50000,
+    "usage": 0.19,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00463",
+    "card_no": "4865965655606351",
+    "limit": 200000,
+    "usage": 0.96,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00464",
+    "card_no": "4704535867225490",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00465",
+    "card_no": "4432807693004307",
+    "limit": 50000,
+    "usage": 0.96,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00466",
+    "card_no": "4547734919003500",
+    "limit": 200000,
+    "usage": 0.31,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00467",
+    "card_no": "4564385678124114",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00468",
+    "card_no": "4573970354839890",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00469",
+    "card_no": "4225985082694750",
+    "limit": 50000,
+    "usage": 0.32,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00470",
+    "card_no": "4913581981633379",
+    "limit": 50000,
+    "usage": 0.45,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00471",
+    "card_no": "4269326288220210",
+    "limit": 100000,
+    "usage": 0.85,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00472",
+    "card_no": "4046998583044651",
+    "limit": 50000,
+    "usage": 0.88,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00473",
+    "card_no": "4621607199758407",
+    "limit": 100000,
+    "usage": 0.98,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00474",
+    "card_no": "4588666512776824",
+    "limit": 200000,
+    "usage": 0.86,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00475",
+    "card_no": "4262997288947594",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00476",
+    "card_no": "4846621929134617",
+    "limit": 100000,
+    "usage": 0.32,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00477",
+    "card_no": "4625718915916308",
+    "limit": 200000,
+    "usage": 0.43,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00478",
+    "card_no": "4304178836338116",
+    "limit": 100000,
+    "usage": 0.51,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00479",
+    "card_no": "4296589648211475",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00480",
+    "card_no": "4614150273749068",
+    "limit": 200000,
+    "usage": 0.36,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00481",
+    "card_no": "4672671499004677",
+    "limit": 100000,
+    "usage": 0.43,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00482",
+    "card_no": "4380182344400542",
+    "limit": 200000,
+    "usage": 0.93,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00483",
+    "card_no": "4467064101825895",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00484",
+    "card_no": "4612329505875492",
+    "limit": 200000,
+    "usage": 0.28,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00485",
+    "card_no": "4825162283308596",
+    "limit": 200000,
+    "usage": 0.05,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00486",
+    "card_no": "4328088816163124",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00487",
+    "card_no": "4094205426281671",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00488",
+    "card_no": "4622855283807605",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00489",
+    "card_no": "4497466741100602",
+    "limit": 100000,
+    "usage": 0.51,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00490",
+    "card_no": "4377040156680883",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00491",
+    "card_no": "4763594111781741",
+    "limit": 200000,
+    "usage": 0.77,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00492",
+    "card_no": "4564008544782428",
+    "limit": 100000,
+    "usage": 0.77,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00493",
+    "card_no": "4229574751481692",
+    "limit": 50000,
+    "usage": 0.61,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00494",
+    "card_no": "4313729897949279",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00495",
+    "card_no": "4861283916245766",
+    "limit": 50000,
+    "usage": 0.38,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00496",
+    "card_no": "4467881336270492",
+    "limit": 200000,
+    "usage": 0.66,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00497",
+    "card_no": "4007036834347853",
+    "limit": 100000,
+    "usage": 0.65,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00498",
+    "card_no": "4231873720824069",
+    "limit": 100000,
+    "usage": 0.39,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00499",
+    "card_no": "4504654526514146",
+    "limit": 100000,
+    "usage": 0.47,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00500",
+    "card_no": "4325603495504269",
+    "limit": 200000,
+    "usage": 0.62,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00501",
+    "card_no": "4106852476229005",
+    "limit": 100000,
+    "usage": 0.43,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00502",
+    "card_no": "4991387146059828",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00503",
+    "card_no": "4730190220935740",
+    "limit": 200000,
+    "usage": 0.18,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00504",
+    "card_no": "4576882949075458",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00505",
+    "card_no": "4022452799301019",
+    "limit": 50000,
+    "usage": 0.67,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00506",
+    "card_no": "4687772462700402",
+    "limit": 200000,
+    "usage": 0.52,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00507",
+    "card_no": "4771006896885643",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00508",
+    "card_no": "4821126906692270",
+    "limit": 100000,
+    "usage": 0.55,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00509",
+    "card_no": "4418556298334039",
+    "limit": 200000,
+    "usage": 0.57,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00510",
+    "card_no": "4763192778841636",
+    "limit": 200000,
+    "usage": 0.3,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00511",
+    "card_no": "4391769334603653",
+    "limit": 100000,
+    "usage": 0.91,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00512",
+    "card_no": "4501543917079360",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00513",
+    "card_no": "4962856589666989",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00514",
+    "card_no": "4928559977163626",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00515",
+    "card_no": "4915641283706893",
+    "limit": 50000,
+    "usage": 0.51,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00516",
+    "card_no": "4178878290512009",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00517",
+    "card_no": "4743184169319667",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00518",
+    "card_no": "4181939861550096",
+    "limit": 100000,
+    "usage": 0.15,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00519",
+    "card_no": "4068185030144537",
+    "limit": 50000,
+    "usage": 0.77,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00520",
+    "card_no": "4729408311958680",
+    "limit": 200000,
+    "usage": 0.66,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00521",
+    "card_no": "4763621632124142",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00522",
+    "card_no": "4686251794366954",
+    "limit": 200000,
+    "usage": 0.9,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00523",
+    "card_no": "4168701376406924",
+    "limit": 200000,
+    "usage": 0.75,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00524",
+    "card_no": "4245105532400728",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00525",
+    "card_no": "4324779383989679",
+    "limit": 50000,
+    "usage": 0.45,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00526",
+    "card_no": "4465493814749148",
+    "limit": 50000,
+    "usage": 0.64,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00527",
+    "card_no": "4966480863017365",
+    "limit": 200000,
+    "usage": 0.35,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00528",
+    "card_no": "4057019201879444",
+    "limit": 100000,
+    "usage": 0.48,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00529",
+    "card_no": "4916893458971944",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00530",
+    "card_no": "4775717439906399",
+    "limit": 200000,
+    "usage": 0.27,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00531",
+    "card_no": "4945371852669373",
+    "limit": 200000,
+    "usage": 0.85,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00532",
+    "card_no": "4012132461531079",
+    "limit": 200000,
+    "usage": 0.15,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00533",
+    "card_no": "4535074140670624",
+    "limit": 100000,
+    "usage": 0.62,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00534",
+    "card_no": "4175654583245222",
+    "limit": 200000,
+    "usage": 0.32,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00535",
+    "card_no": "4779820200996922",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00536",
+    "card_no": "4338270123432694",
+    "limit": 50000,
+    "usage": 0.7,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00537",
+    "card_no": "4067489123092960",
+    "limit": 100000,
+    "usage": 0.69,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00538",
+    "card_no": "4191574554428137",
+    "limit": 50000,
+    "usage": 0.35,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00539",
+    "card_no": "4490649145051527",
+    "limit": 50000,
+    "usage": 0.07,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00540",
+    "card_no": "4501856963262770",
+    "limit": 100000,
+    "usage": 0.55,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00541",
+    "card_no": "4380607546859816",
+    "limit": 100000,
+    "usage": 0.9,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00542",
+    "card_no": "4404478234854390",
+    "limit": 200000,
+    "usage": 0.51,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00543",
+    "card_no": "4386657429190347",
+    "limit": 50000,
+    "usage": 0.47,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00544",
+    "card_no": "4508134803931604",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00545",
+    "card_no": "4790293110666136",
+    "limit": 50000,
+    "usage": 0.92,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00546",
+    "card_no": "4953382044351130",
+    "limit": 200000,
+    "usage": 0.16,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00547",
+    "card_no": "4350284247847644",
+    "limit": 200000,
+    "usage": 0.09,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00548",
+    "card_no": "4564957419753370",
+    "limit": 200000,
+    "usage": 0.67,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00549",
+    "card_no": "4565211125183715",
+    "limit": 100000,
+    "usage": 0.77,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00550",
+    "card_no": "4745528325793401",
+    "limit": 200000,
+    "usage": 0.92,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00551",
+    "card_no": "4772274475071128",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00552",
+    "card_no": "4007024435325734",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00553",
+    "card_no": "4763049030779189",
+    "limit": 100000,
+    "usage": 0.27,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00554",
+    "card_no": "4592612499946854",
+    "limit": 200000,
+    "usage": 0.59,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00555",
+    "card_no": "4141010547175345",
+    "limit": 50000,
+    "usage": 0.1,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00556",
+    "card_no": "4238829687780248",
+    "limit": 200000,
+    "usage": 0.85,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00557",
+    "card_no": "4860855467174120",
+    "limit": 50000,
+    "usage": 0.65,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00558",
+    "card_no": "4549109959510563",
+    "limit": 50000,
+    "usage": 0.21,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00559",
+    "card_no": "4543572805791255",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00560",
+    "card_no": "4983627641502856",
+    "limit": 200000,
+    "usage": 0.53,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00561",
+    "card_no": "4936307421849487",
+    "limit": 50000,
+    "usage": 0.96,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00562",
+    "card_no": "4637456645741889",
+    "limit": 50000,
+    "usage": 0.39,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00563",
+    "card_no": "4461750534628438",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00564",
+    "card_no": "4416295216431119",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00565",
+    "card_no": "4207490729373007",
+    "limit": 50000,
+    "usage": 0.27,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00566",
+    "card_no": "4991327618967004",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00567",
+    "card_no": "4442455450336111",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00568",
+    "card_no": "4028373414148695",
+    "limit": 100000,
+    "usage": 0.69,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00569",
+    "card_no": "4559457779437986",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00570",
+    "card_no": "4307812277779700",
+    "limit": 100000,
+    "usage": 0.14,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00571",
+    "card_no": "4408518949742898",
+    "limit": 50000,
+    "usage": 0.22,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00572",
+    "card_no": "4058408079046691",
+    "limit": 200000,
+    "usage": 0.41,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00573",
+    "card_no": "4625751372244084",
+    "limit": 50000,
+    "usage": 0.97,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00574",
+    "card_no": "4068304703142417",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00575",
+    "card_no": "4919058550450872",
+    "limit": 200000,
+    "usage": 0.73,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00576",
+    "card_no": "4524716317774346",
+    "limit": 200000,
+    "usage": 0.79,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00577",
+    "card_no": "4430259831888156",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00578",
+    "card_no": "4778558169942944",
+    "limit": 100000,
+    "usage": 0.8,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00579",
+    "card_no": "4675144783846041",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00580",
+    "card_no": "4172867249846894",
+    "limit": 200000,
+    "usage": 0.31,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00581",
+    "card_no": "4334784607015240",
+    "limit": 100000,
+    "usage": 0.55,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00582",
+    "card_no": "4443433085414633",
+    "limit": 100000,
+    "usage": 0.68,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00583",
+    "card_no": "4047266797195558",
+    "limit": 200000,
+    "usage": 0.38,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00584",
+    "card_no": "4462402076868792",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00585",
+    "card_no": "4926913488926941",
+    "limit": 50000,
+    "usage": 0.89,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00586",
+    "card_no": "4915738451605628",
+    "limit": 50000,
+    "usage": 0.8,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00587",
+    "card_no": "4694513660900318",
+    "limit": 50000,
+    "usage": 0.28,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00588",
+    "card_no": "4413246931465145",
+    "limit": 200000,
+    "usage": 0.84,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00589",
+    "card_no": "4628550388243126",
+    "limit": 50000,
+    "usage": 0.61,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00590",
+    "card_no": "4644795894681942",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00591",
+    "card_no": "4038448284391487",
+    "limit": 100000,
+    "usage": 0.06,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00592",
+    "card_no": "4910655866379482",
+    "limit": 50000,
+    "usage": 0.53,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00593",
+    "card_no": "4701762575689861",
+    "limit": 100000,
+    "usage": 0.78,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00594",
+    "card_no": "4460152399739150",
+    "limit": 100000,
+    "usage": 0.42,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00595",
+    "card_no": "4579925959577726",
+    "limit": 200000,
+    "usage": 0.24,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00596",
+    "card_no": "4935054750972629",
+    "limit": 200000,
+    "usage": 0.9,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00597",
+    "card_no": "4800775742238314",
+    "limit": 100000,
+    "usage": 0.45,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00598",
+    "card_no": "4432222853442837",
+    "limit": 200000,
+    "usage": 0.69,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00599",
+    "card_no": "4549269725007658",
+    "limit": 50000,
+    "usage": 0.74,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00600",
+    "card_no": "4526966928916736",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00601",
+    "card_no": "4345887981702953",
+    "limit": 200000,
+    "usage": 0.7,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00602",
+    "card_no": "4084465439312973",
+    "limit": 100000,
+    "usage": 0.44,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00603",
+    "card_no": "4713107962823701",
+    "limit": 200000,
+    "usage": 0.45,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00604",
+    "card_no": "4551156031310764",
+    "limit": 50000,
+    "usage": 0.94,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00605",
+    "card_no": "4554305496875214",
+    "limit": 200000,
+    "usage": 0.25,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00606",
+    "card_no": "4381603504273986",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00607",
+    "card_no": "4800223709769738",
+    "limit": 50000,
+    "usage": 0.12,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00608",
+    "card_no": "4801941569641743",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00609",
+    "card_no": "4587788387091658",
+    "limit": 200000,
+    "usage": 0.33,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00610",
+    "card_no": "4492460495889549",
+    "limit": 200000,
+    "usage": 0.76,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00611",
+    "card_no": "4406119528958290",
+    "limit": 100000,
+    "usage": 0.77,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00612",
+    "card_no": "4341696765432883",
+    "limit": 200000,
+    "usage": 0.83,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00613",
+    "card_no": "4541845432323747",
+    "limit": 100000,
+    "usage": 0.86,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00614",
+    "card_no": "4335356316240695",
+    "limit": 100000,
+    "usage": 0.96,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00615",
+    "card_no": "4407325260598937",
+    "limit": 200000,
+    "usage": 0.13,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00616",
+    "card_no": "4022427758743126",
+    "limit": 100000,
+    "usage": 0.91,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00617",
+    "card_no": "4263596761677811",
+    "limit": 100000,
+    "usage": 0.48,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00618",
+    "card_no": "4430149132446840",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00619",
+    "card_no": "4574148474552924",
+    "limit": 50000,
+    "usage": 0.62,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00620",
+    "card_no": "4970181440675765",
+    "limit": 50000,
+    "usage": 0.95,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00621",
+    "card_no": "4817980213231965",
+    "limit": 100000,
+    "usage": 0.46,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00622",
+    "card_no": "4596769778851721",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00623",
+    "card_no": "4788292200613775",
+    "limit": 100000,
+    "usage": 0.71,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00624",
+    "card_no": "4466461590292802",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00625",
+    "card_no": "4922193001571330",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00626",
+    "card_no": "4215270846216663",
+    "limit": 200000,
+    "usage": 0.13,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00627",
+    "card_no": "4861812726541718",
+    "limit": 50000,
+    "usage": 0.92,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00628",
+    "card_no": "4752105262680363",
+    "limit": 100000,
+    "usage": 0.36,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00629",
+    "card_no": "4945700914876893",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00630",
+    "card_no": "4189402205466326",
+    "limit": 50000,
+    "usage": 0.28,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00631",
+    "card_no": "4199511604170043",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00632",
+    "card_no": "4068108976564507",
+    "limit": 100000,
+    "usage": 0.56,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00633",
+    "card_no": "4371150717348054",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00634",
+    "card_no": "4495452563770513",
+    "limit": 100000,
+    "usage": 0.41,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00635",
+    "card_no": "4610313541268234",
+    "limit": 200000,
+    "usage": 0.31,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00636",
+    "card_no": "4440638338734830",
+    "limit": 50000,
+    "usage": 0.69,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00637",
+    "card_no": "4639309654617592",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00638",
+    "card_no": "4691843354382046",
+    "limit": 200000,
+    "usage": 0.77,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00639",
+    "card_no": "4574815137117743",
+    "limit": 200000,
+    "usage": 0.27,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00640",
+    "card_no": "4430794364568088",
+    "limit": 200000,
+    "usage": 0.32,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00641",
+    "card_no": "4474650198913345",
+    "limit": 200000,
+    "usage": 0.72,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00642",
+    "card_no": "4450416404244578",
+    "limit": 100000,
+    "usage": 0.55,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00643",
+    "card_no": "4786939995234064",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00644",
+    "card_no": "4896462318031080",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00645",
+    "card_no": "4868968814565353",
+    "limit": 200000,
+    "usage": 0.92,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00646",
+    "card_no": "4147597943150972",
+    "limit": 100000,
+    "usage": 0.27,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00647",
+    "card_no": "4394098156897429",
+    "limit": 100000,
+    "usage": 0.74,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00648",
+    "card_no": "4167835971551835",
+    "limit": 200000,
+    "usage": 0.94,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00649",
+    "card_no": "4800007049684088",
+    "limit": 200000,
+    "usage": 0.99,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00650",
+    "card_no": "4111327269374634",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00651",
+    "card_no": "4321206292968181",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00652",
+    "card_no": "4344251624188662",
+    "limit": 100000,
+    "usage": 0.23,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00653",
+    "card_no": "4116945675219486",
+    "limit": 50000,
+    "usage": 0.57,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00654",
+    "card_no": "4619292574765443",
+    "limit": 50000,
+    "usage": 0.05,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00655",
+    "card_no": "4477231555096252",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00656",
+    "card_no": "4189902348550485",
+    "limit": 50000,
+    "usage": 0.86,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00657",
+    "card_no": "4957421259446349",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00658",
+    "card_no": "4225191013291596",
+    "limit": 50000,
+    "usage": 0.45,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00659",
+    "card_no": "4401922327802013",
+    "limit": 200000,
+    "usage": 0.6,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00660",
+    "card_no": "4072855413817467",
+    "limit": 50000,
+    "usage": 0.76,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00661",
+    "card_no": "4518744155539792",
+    "limit": 100000,
+    "usage": 0.6,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00662",
+    "card_no": "4986941564430966",
+    "limit": 50000,
+    "usage": 0.44,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00663",
+    "card_no": "4731873862707163",
+    "limit": 200000,
+    "usage": 0.56,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00664",
+    "card_no": "4996324343269561",
+    "limit": 50000,
+    "usage": 0.24,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00665",
+    "card_no": "4015103121667497",
+    "limit": 200000,
+    "usage": 0.09,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00666",
+    "card_no": "4359726677795415",
+    "limit": 200000,
+    "usage": 0.26,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00667",
+    "card_no": "4447751382463237",
+    "limit": 50000,
+    "usage": 0.9,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00668",
+    "card_no": "4714938805107598",
+    "limit": 200000,
+    "usage": 0.78,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00669",
+    "card_no": "4353746634845632",
+    "limit": 100000,
+    "usage": 0.06,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00670",
+    "card_no": "4851043789617511",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00671",
+    "card_no": "4790883364470003",
+    "limit": 50000,
+    "usage": 0.35,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00672",
+    "card_no": "4272872720965729",
+    "limit": 50000,
+    "usage": 0.42,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00673",
+    "card_no": "4722175786308838",
+    "limit": 100000,
+    "usage": 0.37,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00674",
+    "card_no": "4600994840916827",
+    "limit": 100000,
+    "usage": 0.21,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00675",
+    "card_no": "4202587542810632",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00676",
+    "card_no": "4224162380868721",
+    "limit": 100000,
+    "usage": 0.37,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00677",
+    "card_no": "4023090748938566",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00678",
+    "card_no": "4320750025970734",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00679",
+    "card_no": "4107967906395557",
+    "limit": 200000,
+    "usage": 0.66,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00680",
+    "card_no": "4450291066827290",
+    "limit": 100000,
+    "usage": 0.88,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00681",
+    "card_no": "4152403344249522",
+    "limit": 100000,
+    "usage": 0.88,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00682",
+    "card_no": "4311317738685043",
+    "limit": 100000,
+    "usage": 0.57,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00683",
+    "card_no": "4487851702344350",
+    "limit": 100000,
+    "usage": 0.97,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00684",
+    "card_no": "4795205491202686",
+    "limit": 200000,
+    "usage": 0.1,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00685",
+    "card_no": "4020622964008213",
+    "limit": 200000,
+    "usage": 0.6,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00686",
+    "card_no": "4456212763253921",
+    "limit": 200000,
+    "usage": 0.69,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00687",
+    "card_no": "4325425100585265",
+    "limit": 200000,
+    "usage": 0.81,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00688",
+    "card_no": "4279385226836829",
+    "limit": 200000,
+    "usage": 0.48,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00689",
+    "card_no": "4724226348427607",
+    "limit": 100000,
+    "usage": 0.7,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00690",
+    "card_no": "4424039580678843",
+    "limit": 100000,
+    "usage": 0.22,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00691",
+    "card_no": "4092339868053713",
+    "limit": 50000,
+    "usage": 0.4,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00692",
+    "card_no": "4772511574238034",
+    "limit": 200000,
+    "usage": 0.21,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00693",
+    "card_no": "4198349002706478",
+    "limit": 100000,
+    "usage": 0.76,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00694",
+    "card_no": "4747233040230350",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00695",
+    "card_no": "4759508702256719",
+    "limit": 50000,
+    "usage": 0.38,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00696",
+    "card_no": "4391184755137042",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00697",
+    "card_no": "4272547640805439",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00698",
+    "card_no": "4715735793284966",
+    "limit": 200000,
+    "usage": 0.6,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00699",
+    "card_no": "4670277643126580",
+    "limit": 50000,
+    "usage": 0.23,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00700",
+    "card_no": "4919019466455693",
+    "limit": 50000,
+    "usage": 0.87,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00701",
+    "card_no": "4828035447838489",
+    "limit": 100000,
+    "usage": 0.7,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00702",
+    "card_no": "4367729716670640",
+    "limit": 100000,
+    "usage": 0.47,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00703",
+    "card_no": "4116003040259570",
+    "limit": 100000,
+    "usage": 0.93,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00704",
+    "card_no": "4746233053418653",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00705",
+    "card_no": "4943340090071502",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00706",
+    "card_no": "4814001027886968",
+    "limit": 50000,
+    "usage": 0.64,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00707",
+    "card_no": "4628872465398836",
+    "limit": 50000,
+    "usage": 0.4,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00708",
+    "card_no": "4118743019103533",
+    "limit": 100000,
+    "usage": 0.2,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00709",
+    "card_no": "4062883455030340",
+    "limit": 100000,
+    "usage": 0.56,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00710",
+    "card_no": "4029508192881864",
+    "limit": 50000,
+    "usage": 0.91,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00711",
+    "card_no": "4414586245832954",
+    "limit": 200000,
+    "usage": 0.82,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00712",
+    "card_no": "4704215264481863",
+    "limit": 100000,
+    "usage": 0.35,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00713",
+    "card_no": "4220314203541992",
+    "limit": 100000,
+    "usage": 0.76,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00714",
+    "card_no": "4908485470204966",
+    "limit": 200000,
+    "usage": 0.61,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00715",
+    "card_no": "4710681223998190",
+    "limit": 50000,
+    "usage": 0.89,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00716",
+    "card_no": "4868020699534683",
+    "limit": 50000,
+    "usage": 0.96,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00717",
+    "card_no": "4787596018659796",
+    "limit": 100000,
+    "usage": 0.08,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00718",
+    "card_no": "4770810162418957",
+    "limit": 50000,
+    "usage": 0.98,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00719",
+    "card_no": "4538027677532372",
+    "limit": 100000,
+    "usage": 0.62,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00720",
+    "card_no": "4691534130589380",
+    "limit": 100000,
+    "usage": 0.32,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00721",
+    "card_no": "4474976985816440",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00722",
+    "card_no": "4814622361448223",
+    "limit": 100000,
+    "usage": 0.27,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00723",
+    "card_no": "4720778782355910",
+    "limit": 50000,
+    "usage": 0.91,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00724",
+    "card_no": "4017791542966438",
+    "limit": 200000,
+    "usage": 0.63,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00725",
+    "card_no": "4717297309747240",
+    "limit": 100000,
+    "usage": 0.08,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00726",
+    "card_no": "4706876010440896",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00727",
+    "card_no": "4841006247969068",
+    "limit": 200000,
+    "usage": 0.14,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00728",
+    "card_no": "4011904461598803",
+    "limit": 200000,
+    "usage": 0.56,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00729",
+    "card_no": "4096082778518822",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00730",
+    "card_no": "4045560471019983",
+    "limit": 100000,
+    "usage": 0.74,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00731",
+    "card_no": "4865727551991389",
+    "limit": 50000,
+    "usage": 0.4,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00732",
+    "card_no": "4406368263515190",
+    "limit": 50000,
+    "usage": 0.18,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00733",
+    "card_no": "4998254338023276",
+    "limit": 50000,
+    "usage": 0.42,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00734",
+    "card_no": "4777958395070339",
+    "limit": 200000,
+    "usage": 0.18,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00735",
+    "card_no": "4637630236488179",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00736",
+    "card_no": "4277666394687094",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00737",
+    "card_no": "4373060083159764",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00738",
+    "card_no": "4587456614863861",
+    "limit": 100000,
+    "usage": 0.61,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00739",
+    "card_no": "4680562472329926",
+    "limit": 100000,
+    "usage": 0.49,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00740",
+    "card_no": "4870749547329429",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00741",
+    "card_no": "4660483313652907",
+    "limit": 50000,
+    "usage": 0.84,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00742",
+    "card_no": "4919636856190618",
+    "limit": 100000,
+    "usage": 0.58,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00743",
+    "card_no": "4253205309846283",
+    "limit": 100000,
+    "usage": 0.96,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00744",
+    "card_no": "4688319745957858",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00745",
+    "card_no": "4956900790650904",
+    "limit": 100000,
+    "usage": 0.52,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00746",
+    "card_no": "4694495034342665",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00747",
+    "card_no": "4449143961930147",
+    "limit": 200000,
+    "usage": 0.62,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00748",
+    "card_no": "4502611213097914",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00749",
+    "card_no": "4726585409382222",
+    "limit": 200000,
+    "usage": 0.57,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00750",
+    "card_no": "4578966957916109",
+    "limit": 200000,
+    "usage": 0.44,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00751",
+    "card_no": "4655766575976221",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00752",
+    "card_no": "4099601731935853",
+    "limit": 100000,
+    "usage": 0.57,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00753",
+    "card_no": "4695960831083507",
+    "limit": 100000,
+    "usage": 0.96,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00754",
+    "card_no": "4028351549748900",
+    "limit": 100000,
+    "usage": 0.8,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00755",
+    "card_no": "4457042774030540",
+    "limit": 200000,
+    "usage": 0.58,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00756",
+    "card_no": "4957395605221901",
+    "limit": 50000,
+    "usage": 0.78,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00757",
+    "card_no": "4169546777201027",
+    "limit": 200000,
+    "usage": 0.34,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00758",
+    "card_no": "4554858695155381",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00759",
+    "card_no": "4631671113467440",
+    "limit": 200000,
+    "usage": 0.13,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00760",
+    "card_no": "4620842800610923",
+    "limit": 100000,
+    "usage": 0.44,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00761",
+    "card_no": "4739083476300997",
+    "limit": 100000,
+    "usage": 0.33,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00762",
+    "card_no": "4876464503934769",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00763",
+    "card_no": "4400050848587132",
+    "limit": 50000,
+    "usage": 0.85,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00764",
+    "card_no": "4282694412749984",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00765",
+    "card_no": "4772763574802548",
+    "limit": 50000,
+    "usage": 0.48,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00766",
+    "card_no": "4626134849368602",
+    "limit": 50000,
+    "usage": 0.1,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00767",
+    "card_no": "4374591752031491",
+    "limit": 50000,
+    "usage": 0.43,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00768",
+    "card_no": "4346506755213858",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00769",
+    "card_no": "4309587233803903",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00770",
+    "card_no": "4531840084932665",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00771",
+    "card_no": "4429210107596423",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00772",
+    "card_no": "4901625530121644",
+    "limit": 100000,
+    "usage": 0.34,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00773",
+    "card_no": "4318651369728863",
+    "limit": 200000,
+    "usage": 0.47,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00774",
+    "card_no": "4554596526764051",
+    "limit": 200000,
+    "usage": 0.63,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00775",
+    "card_no": "4213438479638047",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00776",
+    "card_no": "4641579642888787",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00777",
+    "card_no": "4107809702932452",
+    "limit": 200000,
+    "usage": 0.15,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00778",
+    "card_no": "4466867714470115",
+    "limit": 50000,
+    "usage": 0.26,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00779",
+    "card_no": "4327505794475074",
+    "limit": 100000,
+    "usage": 0.08,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00780",
+    "card_no": "4264787561171813",
+    "limit": 200000,
+    "usage": 0.95,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00781",
+    "card_no": "4490106005432089",
+    "limit": 50000,
+    "usage": 0.48,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00782",
+    "card_no": "4715918278410156",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00783",
+    "card_no": "4157167646118056",
+    "limit": 200000,
+    "usage": 0.9,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00784",
+    "card_no": "4414527035316266",
+    "limit": 200000,
+    "usage": 0.42,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00785",
+    "card_no": "4526573458516982",
+    "limit": 50000,
+    "usage": 0.88,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00786",
+    "card_no": "4245077894802930",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00787",
+    "card_no": "4991536718101084",
+    "limit": 200000,
+    "usage": 0.31,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00788",
+    "card_no": "4638095466789669",
+    "limit": 100000,
+    "usage": 0.98,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00789",
+    "card_no": "4962929056461833",
+    "limit": 200000,
+    "usage": 0.38,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00790",
+    "card_no": "4472721305017094",
+    "limit": 100000,
+    "usage": 0.95,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00791",
+    "card_no": "4731173181120469",
+    "limit": 50000,
+    "usage": 0.74,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00792",
+    "card_no": "4621810264889038",
+    "limit": 200000,
+    "usage": 0.05,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00793",
+    "card_no": "4405495840425942",
+    "limit": 50000,
+    "usage": 0.51,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00794",
+    "card_no": "4548767842981169",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00795",
+    "card_no": "4651752101162391",
+    "limit": 50000,
+    "usage": 0.47,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00796",
+    "card_no": "4979367562947213",
+    "limit": 50000,
+    "usage": 0.15,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00797",
+    "card_no": "4571744728925728",
+    "limit": 200000,
+    "usage": 0.65,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00798",
+    "card_no": "4599680268996493",
+    "limit": 200000,
+    "usage": 0.71,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00799",
+    "card_no": "4215887786940452",
+    "limit": 100000,
+    "usage": 0.23,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00800",
+    "card_no": "4900244432281092",
+    "limit": 50000,
+    "usage": 0.55,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00801",
+    "card_no": "4628320091002701",
+    "limit": 100000,
+    "usage": 0.52,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00802",
+    "card_no": "4985736135120012",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00803",
+    "card_no": "4528578354484280",
+    "limit": 100000,
+    "usage": 0.58,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00804",
+    "card_no": "4778749388108437",
+    "limit": 200000,
+    "usage": 0.97,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00805",
+    "card_no": "4708672326649743",
+    "limit": 200000,
+    "usage": 0.53,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00806",
+    "card_no": "4135167810233356",
+    "limit": 50000,
+    "usage": 0.67,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00807",
+    "card_no": "4651684725235907",
+    "limit": 100000,
+    "usage": 0.54,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00808",
+    "card_no": "4119746564306286",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00809",
+    "card_no": "4866254993380595",
+    "limit": 50000,
+    "usage": 0.16,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00810",
+    "card_no": "4574778756387117",
+    "limit": 50000,
+    "usage": 0.76,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00811",
+    "card_no": "4972221835168344",
+    "limit": 100000,
+    "usage": 0.59,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00812",
+    "card_no": "4018629942624589",
+    "limit": 200000,
+    "usage": 0.61,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00813",
+    "card_no": "4153756641142356",
+    "limit": 50000,
+    "usage": 0.58,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00814",
+    "card_no": "4287239941750883",
+    "limit": 100000,
+    "usage": 0.56,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00815",
+    "card_no": "4278597262958473",
+    "limit": 50000,
+    "usage": 0.81,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00816",
+    "card_no": "4738338296552063",
+    "limit": 200000,
+    "usage": 0.48,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00817",
+    "card_no": "4631562933734279",
+    "limit": 200000,
+    "usage": 0.56,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00818",
+    "card_no": "4334658692169573",
+    "limit": 50000,
+    "usage": 0.13,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00819",
+    "card_no": "4554998614605949",
+    "limit": 100000,
+    "usage": 0.63,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00820",
+    "card_no": "4195746977219736",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00821",
+    "card_no": "4665225238585118",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00822",
+    "card_no": "4998038663726558",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00823",
+    "card_no": "4001960328060444",
+    "limit": 200000,
+    "usage": 0.64,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00824",
+    "card_no": "4241875225109839",
+    "limit": 50000,
+    "usage": 0.17,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00825",
+    "card_no": "4349992373410573",
+    "limit": 100000,
+    "usage": 0.41,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00826",
+    "card_no": "4289894992456386",
+    "limit": 50000,
+    "usage": 0.21,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00827",
+    "card_no": "4543116752243065",
+    "limit": 100000,
+    "usage": 0.46,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00828",
+    "card_no": "4615909771737198",
+    "limit": 50000,
+    "usage": 0.91,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00829",
+    "card_no": "4665988852542034",
+    "limit": 100000,
+    "usage": 0.35,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00830",
+    "card_no": "4703024594768891",
+    "limit": 200000,
+    "usage": 0.39,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00831",
+    "card_no": "4743116210190819",
+    "limit": 100000,
+    "usage": 0.13,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00832",
+    "card_no": "4466432963403997",
+    "limit": 50000,
+    "usage": 0.26,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00833",
+    "card_no": "4137245384465546",
+    "limit": 200000,
+    "usage": 0.65,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00834",
+    "card_no": "4833343074245670",
+    "limit": 100000,
+    "usage": 0.75,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00835",
+    "card_no": "4110737603244431",
+    "limit": 200000,
+    "usage": 0.29,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00836",
+    "card_no": "4930176105426436",
+    "limit": 50000,
+    "usage": 0.86,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00837",
+    "card_no": "4162230662544108",
+    "limit": 200000,
+    "usage": 0.09,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00838",
+    "card_no": "4462833341755112",
+    "limit": 200000,
+    "usage": 0.81,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00839",
+    "card_no": "4643990140980153",
+    "limit": 100000,
+    "usage": 0.72,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00840",
+    "card_no": "4294500502973897",
+    "limit": 50000,
+    "usage": 0.76,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00841",
+    "card_no": "4702048484765768",
+    "limit": 200000,
+    "usage": 0.4,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00842",
+    "card_no": "4506067801945887",
+    "limit": 100000,
+    "usage": 0.1,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00843",
+    "card_no": "4836328702147554",
+    "limit": 100000,
+    "usage": 0.96,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00844",
+    "card_no": "4011828050094901",
+    "limit": 50000,
+    "usage": 0.1,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00845",
+    "card_no": "4398738416348097",
+    "limit": 100000,
+    "usage": 0.09,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00846",
+    "card_no": "4466355836908371",
+    "limit": 200000,
+    "usage": 0.28,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00847",
+    "card_no": "4588992301027296",
+    "limit": 50000,
+    "usage": 0.32,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00848",
+    "card_no": "4835848867682182",
+    "limit": 50000,
+    "usage": 0.36,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00849",
+    "card_no": "4694961820415533",
+    "limit": 200000,
+    "usage": 0.17,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00850",
+    "card_no": "4050243310846845",
+    "limit": 50000,
+    "usage": 0.25,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00851",
+    "card_no": "4150038938127527",
+    "limit": 50000,
+    "usage": 0.71,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00852",
+    "card_no": "4756645864935443",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00853",
+    "card_no": "4817565433291832",
+    "limit": 200000,
+    "usage": 0.4,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00854",
+    "card_no": "4294977752038903",
+    "limit": 50000,
+    "usage": 0.77,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00855",
+    "card_no": "4975042632562414",
+    "limit": 200000,
+    "usage": 0.77,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00856",
+    "card_no": "4758440195207198",
+    "limit": 50000,
+    "usage": 0.07,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00857",
+    "card_no": "4283738641973630",
+    "limit": 50000,
+    "usage": 0.73,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00858",
+    "card_no": "4738126023138131",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00859",
+    "card_no": "4374774336562486",
+    "limit": 50000,
+    "usage": 0.35,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00860",
+    "card_no": "4337462106377537",
+    "limit": 50000,
+    "usage": 0.94,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00861",
+    "card_no": "4874711051088891",
+    "limit": 200000,
+    "usage": 0.79,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00862",
+    "card_no": "4491807791412513",
+    "limit": 200000,
+    "usage": 0.58,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00863",
+    "card_no": "4989642320982194",
+    "limit": 50000,
+    "usage": 0.28,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00864",
+    "card_no": "4275644395280760",
+    "limit": 50000,
+    "usage": 0.8,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00865",
+    "card_no": "4798976614375087",
+    "limit": 200000,
+    "usage": 0.78,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00866",
+    "card_no": "4388386698904759",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00867",
+    "card_no": "4815825382700807",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00868",
+    "card_no": "4133417745388825",
+    "limit": 50000,
+    "usage": 0.3,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00869",
+    "card_no": "4346399587310746",
+    "limit": 100000,
+    "usage": 0.21,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00870",
+    "card_no": "4997188062946305",
+    "limit": 50000,
+    "usage": 0.29,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00871",
+    "card_no": "4434297608942695",
+    "limit": 100000,
+    "usage": 0.79,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00872",
+    "card_no": "4245504016735925",
+    "limit": 50000,
+    "usage": 0.5,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00873",
+    "card_no": "4055061590876786",
+    "limit": 100000,
+    "usage": 0.81,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00874",
+    "card_no": "4265182202842675",
+    "limit": 50000,
+    "usage": 0.64,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00875",
+    "card_no": "4766182169981529",
+    "limit": 200000,
+    "usage": 0.63,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00876",
+    "card_no": "4402755005679521",
+    "limit": 200000,
+    "usage": 0.99,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00877",
+    "card_no": "4063626803188906",
+    "limit": 50000,
+    "usage": 0.68,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00878",
+    "card_no": "4075313394698809",
+    "limit": 50000,
+    "usage": 0.59,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00879",
+    "card_no": "4671669597735628",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00880",
+    "card_no": "4164899305299575",
+    "limit": 50000,
+    "usage": 0.98,
+    "due_date": "11-08-2025"
+  },
+  {
+    "customer_id": "CUST00881",
+    "card_no": "4500869928267435",
+    "limit": 200000,
+    "usage": 0.6,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00882",
+    "card_no": "4938133840186354",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00883",
+    "card_no": "4513131070759881",
+    "limit": 200000,
+    "usage": 0.14,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00884",
+    "card_no": "4854342652131799",
+    "limit": 100000,
+    "usage": 0.7,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00885",
+    "card_no": "4022875579652586",
+    "limit": 100000,
+    "usage": 0.3,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00886",
+    "card_no": "4050497848666251",
+    "limit": 100000,
+    "usage": 0.24,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00887",
+    "card_no": "4893215958755194",
+    "limit": 200000,
+    "usage": 0.83,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00888",
+    "card_no": "4545507615690135",
+    "limit": 50000,
+    "usage": 0.76,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00889",
+    "card_no": "4790780366099660",
+    "limit": 200000,
+    "usage": 0.22,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00890",
+    "card_no": "4243577603518712",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00891",
+    "card_no": "4662609967001111",
+    "limit": 50000,
+    "usage": 0.26,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00892",
+    "card_no": "4646173617220675",
+    "limit": 200000,
+    "usage": 0.34,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00893",
+    "card_no": "4287459511898474",
+    "limit": 50000,
+    "usage": 0.54,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00894",
+    "card_no": "4707969966144430",
+    "limit": 50000,
+    "usage": 0.88,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00895",
+    "card_no": "4584899780227390",
+    "limit": 50000,
+    "usage": 0.31,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00896",
+    "card_no": "4846117727977243",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00897",
+    "card_no": "4716179998769783",
+    "limit": 200000,
+    "usage": 0.13,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00898",
+    "card_no": "4936157765660164",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00899",
+    "card_no": "4809625581040029",
+    "limit": 50000,
+    "usage": 0.14,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00900",
+    "card_no": "4232970323629137",
+    "limit": 50000,
+    "usage": 0.86,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00901",
+    "card_no": "4364538371921110",
+    "limit": 50000,
+    "usage": 0.38,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00902",
+    "card_no": "4698289993116141",
+    "limit": 200000,
+    "usage": 0.37,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00903",
+    "card_no": "4032879159286142",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00904",
+    "card_no": "4356710738664898",
+    "limit": 50000,
+    "usage": 0.35,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00905",
+    "card_no": "4235227361786136",
+    "limit": 200000,
+    "usage": 0.98,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00906",
+    "card_no": "4942296569238658",
+    "limit": 50000,
+    "usage": 0.46,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00907",
+    "card_no": "4289186383307627",
+    "limit": 200000,
+    "usage": 0.83,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00908",
+    "card_no": "4367343901178008",
+    "limit": 100000,
+    "usage": 0.12,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00909",
+    "card_no": "4969873470439629",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00910",
+    "card_no": "4112692041625880",
+    "limit": 100000,
+    "usage": 0.52,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00911",
+    "card_no": "4996295539193211",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00912",
+    "card_no": "4301822024981189",
+    "limit": 100000,
+    "usage": 0.84,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00913",
+    "card_no": "4251916653677602",
+    "limit": 100000,
+    "usage": 0.22,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00914",
+    "card_no": "4010294597326939",
+    "limit": 50000,
+    "usage": 0.91,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00915",
+    "card_no": "4637175197446338",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00916",
+    "card_no": "4033501777280109",
+    "limit": 200000,
+    "usage": 0.8,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00917",
+    "card_no": "4333130889566373",
+    "limit": 200000,
+    "usage": 0.06,
+    "due_date": "21-08-2025"
+  },
+  {
+    "customer_id": "CUST00918",
+    "card_no": "4678491929757911",
+    "limit": 100000,
+    "usage": 0.98,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00919",
+    "card_no": "4960610827514256",
+    "limit": 200000,
+    "usage": 0.08,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00920",
+    "card_no": "4431253717512459",
+    "limit": 100000,
+    "usage": 0.32,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00921",
+    "card_no": "4018395146192249",
+    "limit": 200000,
+    "usage": 0.11,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00922",
+    "card_no": "4396331490656350",
+    "limit": 100000,
+    "usage": 0.56,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00923",
+    "card_no": "4291827695092002",
+    "limit": 100000,
+    "usage": 0.67,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00924",
+    "card_no": "4927827430210735",
+    "limit": 200000,
+    "usage": 0.5,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00925",
+    "card_no": "4074491067523156",
+    "limit": 100000,
+    "usage": 0.71,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00926",
+    "card_no": "4490583944823826",
+    "limit": 50000,
+    "usage": 0.21,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00927",
+    "card_no": "4238412500156591",
+    "limit": 200000,
+    "usage": 0.2,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00928",
+    "card_no": "4730686999554755",
+    "limit": 200000,
+    "usage": 0.75,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00929",
+    "card_no": "4634099626506780",
+    "limit": 200000,
+    "usage": 0.05,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00930",
+    "card_no": "4529540593720755",
+    "limit": 200000,
+    "usage": 0.65,
+    "due_date": "03-08-2025"
+  },
+  {
+    "customer_id": "CUST00931",
+    "card_no": "4935533857441466",
+    "limit": 100000,
+    "usage": 0.71,
+    "due_date": "10-08-2025"
+  },
+  {
+    "customer_id": "CUST00932",
+    "card_no": "4635701231647782",
+    "limit": 50000,
+    "usage": 0.21,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00933",
+    "card_no": "4435182400097531",
+    "limit": 50000,
+    "usage": 0.14,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00934",
+    "card_no": "4289841054038197",
+    "limit": 200000,
+    "usage": 0.07,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00935",
+    "card_no": "4977963538222380",
+    "limit": 100000,
+    "usage": 0.82,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00936",
+    "card_no": "4017476834304025",
+    "limit": 50000,
+    "usage": 0.46,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00937",
+    "card_no": "4821748450433195",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00938",
+    "card_no": "4473911636774400",
+    "limit": 100000,
+    "usage": 0.89,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00939",
+    "card_no": "4855576646122217",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00940",
+    "card_no": "4399464709213544",
+    "limit": 200000,
+    "usage": 0.73,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00941",
+    "card_no": "4806601191150155",
+    "limit": 50000,
+    "usage": 0.2,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00942",
+    "card_no": "4907259082915498",
+    "limit": 100000,
+    "usage": 0.25,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00943",
+    "card_no": "4518862198257856",
+    "limit": 50000,
+    "usage": 0.12,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00944",
+    "card_no": "4223529926352732",
+    "limit": 200000,
+    "usage": 0.66,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00945",
+    "card_no": "4485620929671481",
+    "limit": 200000,
+    "usage": 0.6,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00946",
+    "card_no": "4557229902382164",
+    "limit": 100000,
+    "usage": 0.45,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00947",
+    "card_no": "4448153031944721",
+    "limit": 100000,
+    "usage": 0.31,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00948",
+    "card_no": "4048542158341191",
+    "limit": 50000,
+    "usage": 0.92,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00949",
+    "card_no": "4051171482905810",
+    "limit": 100000,
+    "usage": 0.72,
+    "due_date": "16-08-2025"
+  },
+  {
+    "customer_id": "CUST00950",
+    "card_no": "4605720406454658",
+    "limit": 100000,
+    "usage": 0.56,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00951",
+    "card_no": "4966065839774004",
+    "limit": 50000,
+    "usage": 0.12,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00952",
+    "card_no": "4901325560917645",
+    "limit": 50000,
+    "usage": 0.58,
+    "due_date": "26-08-2025"
+  },
+  {
+    "customer_id": "CUST00953",
+    "card_no": "4394653423215598",
+    "limit": 50000,
+    "usage": 0.97,
+    "due_date": "24-08-2025"
+  },
+  {
+    "customer_id": "CUST00954",
+    "card_no": "4534386795993511",
+    "limit": 100000,
+    "usage": 0.72,
+    "due_date": "27-08-2025"
+  },
+  {
+    "customer_id": "CUST00955",
+    "card_no": "4278033461625404",
+    "limit": 200000,
+    "usage": 0.68,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00956",
+    "card_no": "4708901072343850",
+    "limit": 100000,
+    "usage": 0.83,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00957",
+    "card_no": "4016140001441005",
+    "limit": 200000,
+    "usage": 0.19,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00958",
+    "card_no": "4742686644673506",
+    "limit": 100000,
+    "usage": 0.82,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00959",
+    "card_no": "4943987902574920",
+    "limit": 100000,
+    "usage": 0.2,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00960",
+    "card_no": "4532791416909410",
+    "limit": 50000,
+    "usage": 0.17,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00961",
+    "card_no": "4969798184290773",
+    "limit": 200000,
+    "usage": 0.85,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00962",
+    "card_no": "4828977527919548",
+    "limit": 50000,
+    "usage": 0.93,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00963",
+    "card_no": "4310865550037919",
+    "limit": 200000,
+    "usage": 0.58,
+    "due_date": "12-08-2025"
+  },
+  {
+    "customer_id": "CUST00964",
+    "card_no": "4262384571293659",
+    "limit": 50000,
+    "usage": 0.34,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00965",
+    "card_no": "4398069872348141",
+    "limit": 100000,
+    "usage": 0.15,
+    "due_date": "22-08-2025"
+  },
+  {
+    "customer_id": "CUST00966",
+    "card_no": "4213355847384800",
+    "limit": 100000,
+    "usage": 0.66,
+    "due_date": "09-08-2025"
+  },
+  {
+    "customer_id": "CUST00967",
+    "card_no": "4534793158160104",
+    "limit": 200000,
+    "usage": 0.28,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00968",
+    "card_no": "4474863393456405",
+    "limit": 100000,
+    "usage": 0.62,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00969",
+    "card_no": "4670522074973616",
+    "limit": 100000,
+    "usage": 0.19,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00970",
+    "card_no": "4336535831293437",
+    "limit": 200000,
+    "usage": 0.66,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00971",
+    "card_no": "4913056323826727",
+    "limit": 50000,
+    "usage": 0.49,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00972",
+    "card_no": "4209414161315512",
+    "limit": 100000,
+    "usage": 0.5,
+    "due_date": "28-08-2025"
+  },
+  {
+    "customer_id": "CUST00973",
+    "card_no": "4256423062566760",
+    "limit": 100000,
+    "usage": 0.16,
+    "due_date": "31-07-2025"
+  },
+  {
+    "customer_id": "CUST00974",
+    "card_no": "4222428478824033",
+    "limit": 50000,
+    "usage": 0.58,
+    "due_date": "20-08-2025"
+  },
+  {
+    "customer_id": "CUST00975",
+    "card_no": "4932133229277997",
+    "limit": 50000,
+    "usage": 0.7,
+    "due_date": "23-08-2025"
+  },
+  {
+    "customer_id": "CUST00976",
+    "card_no": "4841906112799567",
+    "limit": 100000,
+    "usage": 0.67,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST00977",
+    "card_no": "4311524158946040",
+    "limit": 50000,
+    "usage": 0.89,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00978",
+    "card_no": "4215309129522747",
+    "limit": 200000,
+    "usage": 0.52,
+    "due_date": "13-08-2025"
+  },
+  {
+    "customer_id": "CUST00979",
+    "card_no": "4001653900982930",
+    "limit": 100000,
+    "usage": 0.82,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00980",
+    "card_no": "4740197406374629",
+    "limit": 100000,
+    "usage": 0.44,
+    "due_date": "04-08-2025"
+  },
+  {
+    "customer_id": "CUST00981",
+    "card_no": "4832472424080924",
+    "limit": 200000,
+    "usage": 0.75,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00982",
+    "card_no": "4366423450335574",
+    "limit": 100000,
+    "usage": 0.4,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00983",
+    "card_no": "4806520443260513",
+    "limit": 100000,
+    "usage": 0.81,
+    "due_date": "25-08-2025"
+  },
+  {
+    "customer_id": "CUST00984",
+    "card_no": "4713226446199380",
+    "limit": 50000,
+    "usage": 0.33,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00985",
+    "card_no": "4178185683536120",
+    "limit": 50000,
+    "usage": 0.06,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00986",
+    "card_no": "4364768024759332",
+    "limit": 100000,
+    "usage": 0.07,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00987",
+    "card_no": "4090389094453749",
+    "limit": 100000,
+    "usage": 0.55,
+    "due_date": "15-08-2025"
+  },
+  {
+    "customer_id": "CUST00988",
+    "card_no": "4233495928603308",
+    "limit": 50000,
+    "usage": 0.79,
+    "due_date": "01-08-2025"
+  },
+  {
+    "customer_id": "CUST00989",
+    "card_no": "4321431817489499",
+    "limit": 200000,
+    "usage": 0.53,
+    "due_date": "02-08-2025"
+  },
+  {
+    "customer_id": "CUST00990",
+    "card_no": "4463849784768508",
+    "limit": 200000,
+    "usage": 0.53,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00991",
+    "card_no": "4263652296323599",
+    "limit": 100000,
+    "usage": 0.92,
+    "due_date": "07-08-2025"
+  },
+  {
+    "customer_id": "CUST00992",
+    "card_no": "4214915259793839",
+    "limit": 100000,
+    "usage": 0.8,
+    "due_date": "08-08-2025"
+  },
+  {
+    "customer_id": "CUST00993",
+    "card_no": "4419419340284144",
+    "limit": 200000,
+    "usage": 0.75,
+    "due_date": "19-08-2025"
+  },
+  {
+    "customer_id": "CUST00994",
+    "card_no": "4266310579135634",
+    "limit": 200000,
+    "usage": 0.59,
+    "due_date": "18-08-2025"
+  },
+  {
+    "customer_id": "CUST00995",
+    "card_no": "4759017745415598",
+    "limit": 100000,
+    "usage": 0.21,
+    "due_date": "05-08-2025"
+  },
+  {
+    "customer_id": "CUST00996",
+    "card_no": "4431381542959910",
+    "limit": 200000,
+    "usage": 0.28,
+    "due_date": "14-08-2025"
+  },
+  {
+    "customer_id": "CUST00997",
+    "card_no": "4264876841908746",
+    "limit": 100000,
+    "usage": 0.6,
+    "due_date": "17-08-2025"
+  },
+  {
+    "customer_id": "CUST00998",
+    "card_no": "4031894338607850",
+    "limit": 50000,
+    "usage": 0.19,
+    "due_date": "30-07-2025"
+  },
+  {
+    "customer_id": "CUST00999",
+    "card_no": "4848436999224322",
+    "limit": 100000,
+    "usage": 0.29,
+    "due_date": "06-08-2025"
+  },
+  {
+    "customer_id": "CUST01000",
+    "card_no": "4366993136740783",
+    "limit": 200000,
+    "usage": 0.46,
+    "due_date": "08-08-2025"
+  }
+]
