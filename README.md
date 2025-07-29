@@ -1,2 +1,2 @@
-# customer_360
-Customer 360 Platform Built a FastAPI-based ETL system to aggregate, clean, and serve customer data from multiple sources via PostgreSQL with full CRUD support.
+Customer 360 Data Aggregation Platform
+A unified data platform that aggregates and normalizes customer information from multiple sources (CSV, JSON, etc.), stores the cleaned data in a PostgreSQL database, and exposes a FastAPI-based CRUD API for seamless access and management. Designed for data engineers, this project demonstrates robust ETL workflows, data quality standardization, and RESTful microservice architecture—laying the foundation for customer analytics, segmentation, and personalization use cases.
